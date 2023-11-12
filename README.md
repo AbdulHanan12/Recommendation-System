@@ -27,6 +27,7 @@ To install the required libraries, you can use the following command:
 - npm install
 - Import DB from database/database.sql
 - Run php artisan db:seed to create Admin
+- php artisan key:generate
 - php artisan serve to run the project
 
 
