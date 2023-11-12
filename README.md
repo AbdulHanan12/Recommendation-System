@@ -30,6 +30,9 @@ To install the required libraries, you can use the following command:
 - php artisan key:generate
 - php artisan serve to run the project
 
+# Admin Credentials
+- email => admin@yts.com
+- password => 1234abcd&
 
 
 # Future Work / Pending Features
